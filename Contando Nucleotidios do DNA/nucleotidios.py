@@ -1,8 +1,8 @@
-with open('rosalind dna') as f:
+with open("rosalind_dna.txt") as f:
 	  read_data = f.read()
 dna = int()
 
-print(" Rosalid DNA ")
+print(" Rosalind DNA ")
 print("Quantidade de Amostras do DNA: %d" % len(dna))
 print("Quantidade de Adenina: %d" % dna.cout('A'))
 print("Quantidade de Timina: %d" % dna.cout('T'))
