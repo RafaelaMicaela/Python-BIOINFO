@@ -1,2 +1,2 @@
 # Python para Bioinformática
-:snake::bar_chart: :microscope: <s> Aplicando Python na Bioinformática </s> 
+:snake::bar_chart: :microscope: <u> Aplicando Python na Bioinformática </u> 
