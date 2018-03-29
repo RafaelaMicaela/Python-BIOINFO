@@ -1,7 +1,7 @@
 # Rosalind Problems
-*__Contando Nucleotidios do DNA__
-  * Linguague: Python
-*__Transcrevendo DNA em RNA__
-  * Linguague: Python
-*__Gerando o filamento complementar do DNA__
-  * Linguague: Python
+* __Contando Nucleotidios do DNA__
+	* Linguagem: Python
+* __Transcrevendo DNA em RNA__
+	* Linguagem: Python
+* __Gerando o filamento complementar do DNA__	
+	* Linguagem: Python
