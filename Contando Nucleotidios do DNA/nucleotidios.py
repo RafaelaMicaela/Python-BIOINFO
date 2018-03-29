@@ -1,12 +1,14 @@
-with open("rosalind_dna.txt") as f:
-	  read_data = f.read()
-dna = int()
+f = open("/home/rafaela/Downloads/rosalind_dna (6).txt")
+read_data = f.read()
+a = []
+for x in range(0, len(read_data)):
+	a.insert(read_data[x],1)
 
-print(" Rosalind DNA ")
-print("Quantidade de Amostras do DNA: " '{:d}'.format(len(dna)))
-print("Quantidade de Adenina: "'{:d}'.format(dna.cout('A')))
-print("Quantidade de Timina: "'{:d}'.format(dna.cout('T')))
-print("Quantidade de Guanina: " '{:d}'.format(dna.cout('G')))
-print("Quantidade de Citosina: "'{:d}'.format(dna.cout('C')))
+print(a)
+
+
+
+print(read_data.count('T'))
+
 
 f.close()
