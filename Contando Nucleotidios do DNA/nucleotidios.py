@@ -5,12 +5,12 @@ cytosine = 0
 guanine = 0
 thymine = 0
 for i in dataset:
-    if i[0] == 'A':
+    if i == 'A':
         adenine = adenine + 1
-    elif i[0] == 'C':
+    elif i == 'C':
         cytosine = cytosine + 1
-    elif i[0] == 'G':
+    elif i == 'G':
         guanine = guanine + 1
-    elif i[0] == 'T':
+    elif i == 'T':
         thymine = thymine + 1
 print(adenine,cytosine,guanine,thymine)
